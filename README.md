@@ -36,3 +36,5 @@ This project shows regional sales performance, customer trends of various age gr
   - There should be more investment and accessories in clothing and less investment in outerwear.
   - More products should be stocked in the last quarter of the year.
   - There should be discount on feminine products as it will encourage the patronage of the female gender.
+
+<img width="1319" height="502" alt="Screenshot 2026-05-15 075240" src="https://github.com/user-attachments/assets/e0b41cca-003f-4bb4-9c1e-a23132e81b93" />
