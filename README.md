@@ -1,4 +1,4 @@
-<img width="591" height="46" alt="image" src="https://github.com/user-attachments/assets/484581ca-918e-498c-b90a-ba17b87c17ed" /># Excel-Sales-Dashboard
+# Excel-Sales-Dashboard
 This project shows regional sales performance, customer trends of various age groups and monthly revenue using Pivot Tables and Interactive Charts.
 
 ## Project Highlights
